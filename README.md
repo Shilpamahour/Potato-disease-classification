@@ -5,4 +5,5 @@ This project aims to solve this problem by developing a deep learning (CNN-based
 1. Healthy
 2. Early Blight
 3. Late Blight
+   
 By enabling timely and effective disease management, this model can help farmers reduce crop loss and improve productivity.
